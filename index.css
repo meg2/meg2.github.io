@@ -1,0 +1,60 @@
+
+a:link {color:#007dd5;text-decoration: none}      /* unvisited link */
+a:visited {color:#007dd5;text-decoration: none}  /* visited link */
+a:hover {color:#38a1eb;text-decoration: none}  /* mouse over link */
+a:active {color:#007dd5;text-decoration: none}  /* selected link */
+
+body {
+font-family: Arial;
+color: {color:#000000};
+font-size: 10pt;
+}
+
+img
+{
+border:0;
+}
+
+#description
+{
+margin: 0 auto;
+float: left;
+width: 400px;
+}
+
+#container
+{
+	width: 900px;
+margin: 0 auto;
+top: 50%;
+/*margin-top: -266.5px;
+position: relative;*/
+}
+
+.icon
+{
+width: 20px;
+vertical-align: middle;
+}
+
+h3
+{
+margin-top: 20px;
+margin-bottom: 5px;
+}
+
+#subheads
+{
+   font-size: 18px;
+   line-height: 30px;
+}
+
+#mypic
+{
+	border-radius:10px;
+}
+
+#piccontainer
+{
+	float:right;
+}
